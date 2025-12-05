@@ -34,4 +34,4 @@
 | 25 | 未定 |
 
 ※思いつかない場合のストック<br>
-clone, patch
+clone, patch, blame
